@@ -1,8 +1,8 @@
 # 수원시 호흡권 개선을 위한 흡연부스 위치 선정
 [main](https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg)
 
-## 1. 프로젝트 기간 (2023.02.10 ~ 2023.2.22 )
-
+## 1. 프로젝트 기간 
+- 2023.02.10 ~ 2023.2.22
 ## 2. 목적 
 - 국민들의 건강증진
 - 흡연권과 호흡권 보장
