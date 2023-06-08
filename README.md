@@ -1,2 +1,21 @@
 # 수원시 **호흡권** 개선을 위한 흡연부스 위치 선정
-(https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg)
+[main](https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg)
+
+## 1. 프로젝트 기간 (2023.02.10 ~ 2023.2.22 )
+
+## 2. 목적 
+- 국민들의 건강증진
+- 흡연권과 호흡권 보장
+- 깨끗한 거리유지
+
+## 3. 데이터
+- 흡연부스 설치현황이 나와 있는 서울시 데이터
+  - 종속변수 : 흡연구역
+  - 독립변수 : 유동인구, 금연구역, 흡연자수, 면적
+
+## 4. 팀구성
+- 사용툴 : R-Studio
+- 장수경 / 임광현 / 권용석 / 주강희
+- 주요업무 : R-Studio를 이용하여 변수간의 상관관계를 분석하여 흡연부스 설치의 최적의 입지조건을 찾음
+
+ 
