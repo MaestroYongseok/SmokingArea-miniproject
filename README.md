@@ -1,4 +1,4 @@
-# 수원시 호흡권 개선을 위한 흡연부스 위치 선정 :star: 
+# :star: 수원시 호흡권 개선을 위한 흡연부스 위치 선정 :star: 
 [main](https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg) <br>
 [ppt](https://github.com/MaestroYongseok/SmokingArea/blob/main/1st%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%ED%9D%A1%EC%97%B0%EA%B6%8C)%201%EC%A1%B0.pdf)
 
