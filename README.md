@@ -1,3 +1,4 @@
+### mini Team Project<br>
 # :star: 수원시 호흡권 개선을 위한 흡연부스 위치 선정 :star: 
 <img src="img/home.jpg"/>
 1. [main](https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg) <br>
