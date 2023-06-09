@@ -17,10 +17,9 @@
 
 ## 4. 팀구성
 - 사용툴 
-  - R-Studio  
+  - R-Studio / 엑셀(데이터정제)
   <img src="img/rstudio.png"/>
-  - 엑셀(데이터정제)
-  - <img src="img/excel.png"/>
+  <img src="img/excel.png"/>
 
 - 팀원 
   - 장수경 / 임광현 / 권용석 / 주강희
