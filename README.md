@@ -1,4 +1,5 @@
 # :star: 수원시 호흡권 개선을 위한 흡연부스 위치 선정 :star: 
+<img src="img/home.jpg"/>
 1. [main](https://github.com/MaestroYongseok/SmokingArea/blob/main/img/home.jpg) <br>
 2. [ppt](https://github.com/MaestroYongseok/SmokingArea/blob/main/1st%20%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%ED%9D%A1%EC%97%B0%EA%B6%8C)%201%EC%A1%B0.pdf)
 
@@ -17,6 +18,7 @@
 ## 4. 팀구성
 - 사용툴 
   - R-Studio / 엑셀(데이터정제)
+  <img src="Profile.png"/>
 - 팀원 
   - 장수경 / 임광현 / 권용석 / 주강희
 - 주요업무 
